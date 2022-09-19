@@ -1,6 +1,8 @@
 
 body {
     background-color: rgb(255, 233, 218);
+    border-radius: 5px;
+    border-style: dashed;
 }
 
 .navi {
@@ -41,12 +43,6 @@ body {
     
     background-color: rgb(179, 179, 255);
     transition:  all .5s ease;
-}
-
-
-body {
-    border-radius: 5px;
-    border-style: dashed;
 }
 
 img {
